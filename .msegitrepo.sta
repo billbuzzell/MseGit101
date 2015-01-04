@@ -410,7 +410,7 @@ clonequeryfo.sta=35
  visible=1
 commitmessagefo.sta=12
  [commitmessagefo.messageed]
- value=Merge from FETCH_HEAD.
+ value=Merge branch 'master' of https://github.com/billbuzzell/MseGit101
  +
  [commitmessagefo]
  stackedunder=
