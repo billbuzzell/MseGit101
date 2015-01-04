@@ -352,17 +352,12 @@ optionsfo.sta=9
  wsize=0
  active=1
  visible=1
-revertqueryfo.sta=14
- [revertqueryfo.tsplitter2]
- x=232
- y=-8
- xprop=0.4249547920434
- yprop=0.85512367491166
- [revertqueryfo]
+revertqueryfo.sta=9
+ [remuntrackqueryfo]
  stackedunder=
- x=113
- y=249
- cx=553
+ x=109
+ y=231
+ cx=343
  cy=283
  wsize=0
  active=1
