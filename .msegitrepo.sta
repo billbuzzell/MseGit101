@@ -415,7 +415,7 @@ clonequeryfo.sta=35
  visible=1
 commitmessagefo.sta=12
  [commitmessagefo.messageed]
- value=Merge branch 'master' of https://github.com/billbuzzell/Graphics
+ value=Merge branch 'master' of https://github.com/billbuzzell/MseGit101
  +
  [commitmessagefo]
  stackedunder=
