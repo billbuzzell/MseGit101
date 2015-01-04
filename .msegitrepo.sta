@@ -421,7 +421,7 @@ commitmessagefo.sta=12
  wsize=0
  active=1
  visible=1
-form.sta=302
+form.sta=303
  [mainfo.dockpanel]
  splitdir=2
  useroptions=33570179
@@ -453,7 +453,7 @@ form.sta=302
  [tagsfo]
  splitdir=0
  useroptions=16507
- stackedunder=mainfo.panelcontroller.panel2
+ stackedunder=mainfo
  parent=
  mdistate=0
  nx=0
@@ -557,8 +557,9 @@ form.sta=302
  sortdescend7=0
  width8=18
  sortdescend8=0
- rowstate=1
+ rowstate=2
   0 3
+  1 0
  [branchfo.localgrid]
  propcolwidthref=182
  sortdescend0=0
@@ -698,19 +699,19 @@ form.sta=302
  children=2
   filesfo,151,0,321,142
   dirtreefo,0,0,148,142
- focusedchild=1
+ focusedchild=0
  [mainfo.panelcontroller.panel2]
  splitdir=2
  useroptions=33586671
- stackedunder=mainfo
+ stackedunder=
  parent=
  mdistate=0
  nx=0
  ny=0
  ncx=0
  ncy=0
- x=752
- y=172
+ x=705
+ y=213
  cx=582
  cy=532
  rcx=0
@@ -723,7 +724,7 @@ form.sta=302
  focusedchild=1
  wsize=0
  active=0
- visible=1
+ visible=0
 [mainmo.repoobj]
 activeremote=origin
 activelocallogbranch=master
